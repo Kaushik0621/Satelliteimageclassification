@@ -1,2 +1,2 @@
 # Satelliteimageclassification
-1st Git Repository
+I have satelite images dataset downloaded from kaggle and going to classify those images
